@@ -469,3 +469,467 @@ Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\o
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1529637308156	geckodriver	INFO	geckodriver 0.18.0
+1529637308173	geckodriver	INFO	Listening on 127.0.0.1:16806
+1529637311247	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529637313645	Marionette	INFO	Listening on port 16815
+1529637314515	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529637655199	geckodriver	INFO	geckodriver 0.18.0
+1529637655208	geckodriver	INFO	Listening on 127.0.0.1:60973
+1529637658261	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529637660575	Marionette	INFO	Listening on port 60981
+1529637661422	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529637788816	geckodriver	INFO	geckodriver 0.18.0
+1529637788826	geckodriver	INFO	Listening on 127.0.0.1:61133
+1529637791920	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529637794202	Marionette	INFO	Listening on port 61141
+1529637795066	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+1529637812431	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1529637812451	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1529637812456	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+1529652192273	geckodriver	INFO	geckodriver 0.18.0
+1529652192283	geckodriver	INFO	Listening on 127.0.0.1:60772
+1529652195333	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529652197630	Marionette	INFO	Listening on port 60780
+1529652198501	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/My97DatePicker.htm, line 20: ReferenceError: langList is not defined
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/calendar.js line 7 > eval, line 1: ReferenceError: $lang is not defined
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+1529652288778	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1529652288792	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1529652288798	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1406: TypeError: this._tabPool is null
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529652516821	geckodriver	INFO	geckodriver 0.18.0
+1529652516831	geckodriver	INFO	Listening on 127.0.0.1:61140
+1529652519904	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529652522124	Marionette	INFO	Listening on port 61148
+1529652523035	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/calendar.js line 7 > eval, line 1: ReferenceError: $lang is not defined
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529652580815	geckodriver	INFO	geckodriver 0.18.0
+1529652580824	geckodriver	INFO	Listening on 127.0.0.1:61203
+1529652583926	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529652586160	Marionette	INFO	Listening on port 61211
+1529652587116	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/calendar.js line 7 > eval, line 1: ReferenceError: $lang is not defined
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4A0006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1529652757031	geckodriver	INFO	geckodriver 0.18.0
+1529652757040	geckodriver	INFO	Listening on 127.0.0.1:61344
+1529652760168	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529652762906	Marionette	INFO	Listening on port 61352
+1529652763296	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+1529656243114	geckodriver	INFO	geckodriver 0.18.0
+1529656243138	geckodriver	INFO	Listening on 127.0.0.1:62286
+1529656246195	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529656263160	Marionette	INFO	Listening on port 62295
+1529656263372	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/calendar.js line 7 > eval, line 1: ReferenceError: $lang is not defined
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529659679293	geckodriver	INFO	geckodriver 0.18.0
+1529659679312	geckodriver	INFO	Listening on 127.0.0.1:63797
+1529659682358	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529659684737	Marionette	INFO	Listening on port 63806
+1529659685529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529659686562	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/software/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/software/Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15228, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529659708567	geckodriver	INFO	geckodriver 0.18.0
+1529659708577	geckodriver	INFO	Listening on 127.0.0.1:63845
+1529659711658	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529659713840	Marionette	INFO	Listening on port 63854
+1529659714779	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/My97DatePicker.htm, line 20: ReferenceError: langList is not defined
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/calendar.js line 7 > eval, line 1: ReferenceError: $lang is not defined
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+[Child 8412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+1529659788323	geckodriver	INFO	geckodriver 0.18.0
+1529659788333	geckodriver	INFO	Listening on 127.0.0.1:63920
+1529659791438	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529659793681	Marionette	INFO	Listening on port 63929
+1529659794625	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+1529659864439	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1529659864451	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1529659864455	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+2: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529660335807	geckodriver	INFO	geckodriver 0.18.0
+1529660335821	geckodriver	INFO	Listening on 127.0.0.1:64173
+1529660338894	geckodriver::marionette	INFO	Starting browser D:\software\Firefox\firefox.exe with args ["-marionette"]
+1529660352910	Marionette	INFO	Listening on port 64183
+1529660353453	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript error: http://172.17.102.44:18080/ContractCars/common/js/My97DatePicker/calendar.js line 7 > eval, line 1: ReferenceError: $lang is not defined
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 488: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/ext/ext-all-debug.js, line 2094: unreachable code after return statement
+JavaScript warning: http://172.17.102.44:18080/ContractCars/common/js/common.js, line 152: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\zhuyonggang\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

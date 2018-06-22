@@ -2,9 +2,12 @@
 __author__ = '朱永刚'
 from selenium.webdriver.common.action_chains import ActionChains
 from test.common.page import Page
+from time import sleep
 
 class HTQicaoPage(Page):
     def page_qicao(self):
+        self.driver.switch_to_frame('mainFrame')#切换Frame
+        sleep(0.5)  # 如果无法填写起草信息，将等待时间调大，经测试最小可以调到0.3
         # 基本信息
         self.driver.find_element_by_xpath('//*[@id="contractName"]').click()
         self.driver.find_element_by_xpath('//*[@id="contractName"]').send_keys('合同名称')  # 合同名称

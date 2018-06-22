@@ -76,7 +76,6 @@ class ExcelReader:
 if __name__ == '__main__':
     BASE_PATH = os.path.split(os.path.split(os.path.dirname(os.path.abspath(__file__)))[0])[0]
     CONFIG_FILE = os.path.join(BASE_PATH, 'config', 'config.yml')
-    #CONFIG_FILE = r'C:\Users\zhuyonggang\PycharmProjects\python_learn\selenium_test\Test_framework\config\config.yml'
     reader = YamlReader(CONFIG_FILE)
     print(reader.data)
 

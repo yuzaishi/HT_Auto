@@ -18,4 +18,7 @@ class Page(Browser):
     def find_elements(self,*args):
         return self.driver.find_elements(*args)
 
+    def switch_to_frame(self,*args):
+        return self.driver.switch_to_frame(*args)
+
 #这里封装后 page 里可以将定位提取出来

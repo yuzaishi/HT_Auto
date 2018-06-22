@@ -1,0 +1,20 @@
+2018-06-22 11:15:35,647 - framework - INFO - attach file C:\Users\zhuyonggang\PycharmProjects\python_learn\HT_Auto\report\\2018-06-22-11_15_07report.html
+2018-06-22 11:21:22,567 - framework - INFO - attach file C:\Users\zhuyonggang\PycharmProjects\python_learn\HT_Auto\report\\2018-06-22-11_20_55report.html
+2018-06-22 11:23:23,467 - framework - INFO - attach file C:\Users\zhuyonggang\PycharmProjects\python_learn\HT_Auto\report\\2018-06-22-11_23_08report.html
+2018-06-22 11:23:25,919 - framework - ERROR - 发送邮件失败,无法连接到SMTP服务器，检查网络以及SMTP服务器. [Errno 11004] getaddrinfo failed
+Traceback (most recent call last):
+  File "C:\Users\zhuyonggang\PycharmProjects\python_learn\HT_Auto\src\utils\mail.py", line 60, in send
+    smtp_server = smtplib.SMTP_SSL(self.server,465)  # 连接sever
+  File "D:\software\Anaconda3\lib\smtplib.py", line 1030, in __init__
+    source_address)
+  File "D:\software\Anaconda3\lib\smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "D:\software\Anaconda3\lib\smtplib.py", line 336, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "D:\software\Anaconda3\lib\smtplib.py", line 1036, in _get_socket
+    self.source_address)
+  File "D:\software\Anaconda3\lib\socket.py", line 704, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "D:\software\Anaconda3\lib\socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
